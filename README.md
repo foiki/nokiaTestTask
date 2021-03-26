@@ -1,5 +1,5 @@
-#Test task
-##Info
+# Test task
+## Info
 CSV table parser which calculates simple expressions
 
 4 test files included:
@@ -14,7 +14,7 @@ test4.csv: wrong index test
 
 test5.csv: more rows and columns
 
-##How to run
+## How to run
 
 To run execute:
 
