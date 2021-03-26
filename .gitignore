@@ -1,2 +1,19 @@
-*.vscode
-main
+# General
+*.DS_Store
+*.AppleDouble
+*.LSOverride
+
+*.xcodeproj
+workspace.xml
+uiDesigner.xml
+*.kotlin_module
+*.class
+*.jar
+*.bin
+*.properties
+*.lock
+*.idea
+build/
+/settings.gradle
+*.MF
+out/
