@@ -19,6 +19,9 @@ test5.csv: more rows and columns
 To run execute:
 
 ```
-bash build.sh
-./main file.csv
+mkdir build
+cd build
+cmake ..
+make
+./nokiaTestTask ../test.csv
 ```
